@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = '6C DAQ'
+copyright = '2024, Beamline 6C at PLS-II'
+author = 'Jae-Hong Lim'
 
 release = '0.1'
 version = '0.1.0'
