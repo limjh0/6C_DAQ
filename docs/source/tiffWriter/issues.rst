@@ -5,7 +5,7 @@ Issues
 --------------------------------------------------------------------------------------------------
 아래와 같은 log가 나옴
 
-.. blockquote::
+.. note::
 
    File "C:\codes\bl6c_daq\docker\tiff-writer\tiffWriterCallback.py", line 98, in resource
        os.makedirs(parent_dir)
@@ -16,6 +16,7 @@ Issues
    Traceback (most recent call last):
        File "C:\Users\master\miniconda3\envs\bs_202302\lib\asyncio\events.py", line 80, in _run
        self._context.run(self._callback, *self._args)
+
 
 그러면서, storage server로 넘어가지 않고서 .h5 file이 ioc server에 남아있음
 
