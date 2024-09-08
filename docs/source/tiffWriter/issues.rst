@@ -5,7 +5,7 @@ Issues
 --------------------------------------------------------------------------------------------------
 아래와 같은 log가 나옴
 
-.. note::
+::
 
    File "C:\codes\bl6c_daq\docker\tiff-writer\tiffWriterCallback.py", line 98, in resource
        os.makedirs(parent_dir)
