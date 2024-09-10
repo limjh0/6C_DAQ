@@ -7,6 +7,7 @@ Issues
 overnight DAQ하는 동안 interval이 30초 이상으로 늘었음
 
     .. code-block:: Python
+        :emphasize-lines: 23
 
         cond = {
             'exptime': 100,          # Expose time in milliseconds
@@ -216,7 +217,7 @@ overnight DAQ하는 동안 interval이 30초 이상으로 늘었음
 실행 log:
 
     .. code-block:: Python
-        :emphasize-lines: 86-100
+        :emphasize-lines: 86, 100, 114
 
         current_time : 02:58
         current_time : 02:58
@@ -324,7 +325,6 @@ overnight DAQ하는 동안 interval이 30초 이상으로 늘었음
 
 
 
-    ::
 
         Transient Scan ID: 5204     Time: 2024-09-09 03:06:03
         Persistent Unique Scan ID: 'dc78081b-0bf4-47b7-b7a4-53651af168cd'
@@ -337,6 +337,8 @@ overnight DAQ하는 동안 interval이 30초 이상으로 늘었음
         generator count ['dc78081b'] (scan num: 5204)
 
 
+    .. code-block:: Python
+        :emphasize-lines: 83, 97, 111
 
         current_time : 07:28
         current_time : 07:28
