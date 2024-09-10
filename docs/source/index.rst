@@ -7,6 +7,7 @@ Contents
 --------
 
 .. toctree::
-
-   tiffWriter/home
+    
    GUI/home
+   scripting/home
+   tiffWriter/home
