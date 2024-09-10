@@ -1,4 +1,4 @@
-6C DAQ
+6C DAQ Issues and Fixes
 ===================================
 
 PLS-II 6C 빔라인의 DAQ 개발과 개선을 위함.
