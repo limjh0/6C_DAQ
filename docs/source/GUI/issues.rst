@@ -1,12 +1,12 @@
 Issues
 ======
-``G001`` Save button을 눌렀을 때 16-bit tiff로 저장되게 조치 필요
+``G001`` Save button을 눌렀을 때 16-bit tiff로 저장되게 조치 필요 (20240910)
 --------------------------------------------------------------
     .. image:: images/0010_save_button.png
         :align: center
 
 
-``G002`` Region of interest (ROI)를 선택할 수 있고, ROI 내 statistics 값을 알 수 있게
+``G002`` Region of interest (ROI)를 선택할 수 있고, ROI 내 statistics 값을 알 수 있게 (20240910)
 ----------------------------------------------------------------------------------
 가령, 아래와 같이 box로 ROI를 선택하면, 그 내부의 statistics 값이 반영이 되게
     .. image:: images/0020_ROI_selection.png
