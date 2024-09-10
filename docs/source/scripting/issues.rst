@@ -7,7 +7,7 @@ Issues
 overnight DAQ하는 동안 interval이 30초 이상으로 늘었음
 
     .. code-block:: Python
-        :emphasize-lines: 23
+        :emphasize-lines: 22
 
         cond = {
             'exptime': 100,          # Expose time in milliseconds
