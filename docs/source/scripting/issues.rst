@@ -215,7 +215,7 @@ overnight DAQ하는 동안 interval이 30초 이상으로 늘었음
         
 실행 log:
 
-    ::
+    .. code-block:: Python
         :emphasize-lines: 86-100
 
         current_time : 02:58
