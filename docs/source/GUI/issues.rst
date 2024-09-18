@@ -11,3 +11,7 @@ Issues
 가령, 아래와 같이 box로 ROI를 선택하면, 그 내부의 statistics 값이 반영이 되게
     .. image:: images/0020_ROI_selection.png
         :align: center
+
+
+``G003`` Zoom in 또는 zoom out 시 확대율을 표기: CT 정렬할 때 이 정보가 필요함 (20240918)
+
