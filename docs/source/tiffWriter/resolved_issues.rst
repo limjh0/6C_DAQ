@@ -1,4 +1,4 @@
-Resolved Issues
+*Resolved Issues*
 ===============
 
 ``T001`` .h5 file을 압축을 풀어 저장할 storage server의 target director가 없을 때 (없어졌을 때) 처리 -> ``수정 완료됨`` (김상우 20240912; commit b6129d77fe39accc501f408fe9700bda03a04196)

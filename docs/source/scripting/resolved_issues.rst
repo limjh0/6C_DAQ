@@ -1,2 +1,2 @@
-Resolved Issues
+*Resolved Issues*
 ===============
