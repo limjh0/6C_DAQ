@@ -8,7 +8,7 @@ Issues
 + DAQ 시작 초기에는 5-7초 interval로 촬영이 되고
 + 그 interval이 점점 길어져서 후에는 30초 까지 늘어남
 
-Script를 실행했다가 ``Ctrl+C`` 로 강제 종료하고, 또 script를 실행하고 하는 것을 반복했음.
+Script를 실행했다가 ``Ctrl+C`` 로 강제 종료하고, 또 script를 실행하고 ``Ctrl+C`` 로 강제 종료하고 하는 것을 반복했음.
 
 Interval이 늘어나는 것이 누적된 2D 영상 촬영 횟수와 상관이 있는 것으로 보임
 
