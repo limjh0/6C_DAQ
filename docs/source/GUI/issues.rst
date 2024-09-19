@@ -1,4 +1,4 @@
-Issues
+**Issues**
 ======
 
 ``G002`` Region of interest (ROI)를 선택할 수 있고, ROI 내 statistics 값을 알 수 있게 (20240910)
