@@ -12,8 +12,8 @@ Script를 실행했다가 ``Ctrl+C`` 로 강제 종료하고, 또 script를 실�
 
 Interval이 늘어나는 것이 누적된 2D 영상 촬영 횟수와 상관이 있는 것으로 보임
 
-.. image:: images/0010_increasing_intervals.png
-    :align:: center
+    .. image:: images/0010_increasing_intervals.png
+        :align:: center
 
 
     .. code-block:: Python
