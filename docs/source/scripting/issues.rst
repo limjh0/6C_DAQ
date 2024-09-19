@@ -15,6 +15,7 @@ Interval이 늘어나는 것이 누적된 2D 영상 촬영 횟수와 상관이 �
     .. image:: images/0010_intervals.png
         :align: center
 
+script file: "20240907_SY_time_sync_PCO_trigger_CT_and_2D.py"
 
     .. code-block:: Python
         :emphasize-lines: 22
